@@ -1,4 +1,4 @@
-# CPU THREAD AFFINITY HELPER
+# CPU Thread Affinity Helper
 
 C++ header-only utility for query or change **thread affinity** in a process
 
