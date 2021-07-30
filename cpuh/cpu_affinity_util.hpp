@@ -10,7 +10,7 @@
 *   Fabio Galuppo
 *
 * Releases: July 29 2021 - v0.1
-    v0.1 - July 2021 - initial release
+*   v0.1 - July 2021 - initial release
 *
 * The MIT License (MIT)
 * Copyright © 2021 Fabio Galuppo
